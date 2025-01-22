@@ -1,4 +1,4 @@
-# [ESP] Simply PHP/HTML/CSS Blog
+# 🇪🇸 Simply PHP/HTML/CSS Blog
 
 Este es un blog simple desarrollado durante el segundo año del programa de **Técnico Superior en Desarrollo de Aplicaciones Web**. El proyecto utiliza tecnologías como **HTML**, **CSS**, **PHP**, **SQL** y **Bootstrap**.
 
